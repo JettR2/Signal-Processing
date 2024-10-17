@@ -1,0 +1,7 @@
+Each station has 3 components
+
+BH1
+BH2
+BHZ
+
+for N-S , E-W , Z- up and down

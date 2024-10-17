@@ -1,0 +1,2 @@
+ T = Measurement Type;
+     where 1 = 15-minute measurement; 2 = 1-minute measurement; 3 = 15-second measurement
